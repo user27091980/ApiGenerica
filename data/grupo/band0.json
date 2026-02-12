@@ -1,0 +1,31 @@
+{
+  "id": "0",
+  "name": "Tool",
+  "description": "Tool es una banda estadounidense de rock y metal alternativo formada en Los Ángeles en 1990. Está integrada por Danny Carey, Adam Jones, Maynard James Keenan y Justin Chancellor. Ha vendido millones de álbumes y ganado tres premios Grammy. Su discografía incluye Opiate (1992), Undertow, Ænima (1996), Lateralus (2001), 10,000 Days (2006) y Fear Inoculum (2019).",
+  "image": "ApiGenerica/data/resources/tool.jpg",
+  "albumImages": [
+    "data/resources/tool3.jpg",
+    "data/resources/tool4.JPG",
+    "data/resources/tool5.jpg",
+    "data/resources/tool6.jpg",
+    "data/resources/tool7.jpeg",
+    "data/resources/tool8.jpg"
+  ],
+  "style": "metal progresivo",
+  "recordLabel": "BGM",
+  "components": [
+    "Maynard James Keenan",
+    "Danny Carey",
+    "Justin Chancellor",
+    "Adam Jones"
+  ],
+  "discography": [
+    "opiate",
+    "undertow",
+    "aenima",
+    "lateralus",
+    "10000 days",
+    "fear inoculum"
+  ],
+  "imageBand": "data/resources/tool1.jpg"
+}

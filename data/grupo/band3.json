@@ -1,0 +1,27 @@
+{
+  "id": "3",
+  "name": "Autechre",
+  "description": "Autechre es un dúo británico de música electrónica formado por Sean Booth y Rob Brown en 1987. Asociados al IDM y Warp Records, han evolucionado hacia un sonido cada vez más experimental y abstracto.",
+  "image": "ApiGenerica/data/resources/ae0.jpg",
+  "albumImages": [
+    "data/resources/ae2.jpg",
+    "data/resources/ae3.jpg",
+    "data/resources/ae4.jpg",
+    "data/resources/ae5.jpg",
+    "data/resources/ae6.jpg"
+  ],
+  "style": "experimental",
+  "recordLabel": "Warp Records",
+  "components": [
+    "Sean Booth",
+    "Robert Brown"
+  ],
+  "discography": [
+    "Chiastic Slide",
+    "Exai",
+    "Incunabula",
+    "NTS Sessions",
+    "AE_2022"
+  ],
+  "imageBand": "data/resources/ae1.jpg"
+}

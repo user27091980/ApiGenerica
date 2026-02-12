@@ -1,0 +1,27 @@
+{
+  "id": "4",
+  "name": "Boards of Canada",
+  "description": "Boards of Canada es un dúo escocés formado por Marcus Eoin y Mike Sandison. Son referentes del IDM y el downtempo, con un sonido nostálgico y experimental. Su álbum Music Has the Right to Children (1998) es considerado un clásico del género.",
+  "image": "ApiGenerica/data/resources/boc1.jpg",
+  "albumImages": [
+    "data/resources/boc2.jpeg",
+    "data/resources/boc3.jpeg",
+    "data/resources/boc4.jpg",
+    "data/resources/boc5.jpg",
+    "data/resources/boc6.jpg"
+  ],
+  "style": "idm, downtempo",
+  "recordLabel": "Warp records, Skam Records",
+  "components": [
+    "Marcus Eoin",
+    "Mike Sandison"
+  ],
+  "discography": [
+    "High Scores",
+    "Music has the right to Children",
+    "Geogaddi",
+    "Tomorrow´s harvest",
+    "The Campfire headphase"
+  ],
+  "imageBand": "data/resources/boc0.jpg"
+}
