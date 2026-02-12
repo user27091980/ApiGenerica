@@ -503,11 +503,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/anders/StudioProjects/apijson/ApiGenerica/ApiGenerica.csproj",
+      "projectUniqueName": "/Users/anders/AndroidStudioProjects/ApiGenerica/ApiGenerica.csproj",
       "projectName": "ApiGenerica",
-      "projectPath": "/Users/anders/StudioProjects/apijson/ApiGenerica/ApiGenerica.csproj",
+      "projectPath": "/Users/anders/AndroidStudioProjects/ApiGenerica/ApiGenerica.csproj",
       "packagesPath": "/Users/anders/.nuget/packages/",
-      "outputPath": "/Users/anders/StudioProjects/apijson/ApiGenerica/obj/",
+      "outputPath": "/Users/anders/AndroidStudioProjects/ApiGenerica/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/anders/.nuget/NuGet/NuGet.Config"
@@ -568,7 +568,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.101/PortableRuntimeIdentifierGraph.json",
+        "runtimeIdentifierGraphPath": "/usr/local/share/dotnet/sdk/10.0.102/PortableRuntimeIdentifierGraph.json",
         "packagesToPrune": {
           "Microsoft.AspNetCore": "(,10.0.32767]",
           "Microsoft.AspNetCore.Antiforgery": "(,10.0.32767]",

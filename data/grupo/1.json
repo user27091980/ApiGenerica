@@ -1,0 +1,17 @@
+{
+  "id": "1",
+  "name": "Aphex Twin",
+  "description": "Richard David James (18 de agosto de 1971), conocido como Aphex Twin, es un DJ y productor irlandés nacionalizado británico. Fue descrito por The Guardian como una de las figuras más influyentes de la música electrónica contemporánea. Fundó Rephlex Records en 1991 junto a Grant Wilson-Claridge. En 2021, Pitchfork lo incluyó entre los 200 artistas más influyentes de los últimos 25 años.",
+  "image": "ApiGenerica/data/resources/aphx.png",
+  "albumImages": [],
+  "style": "idm",
+  "recordLabel": "Warp Records",
+  "components": [
+    "Richard D. James"
+  ],
+  "discography": [
+    "Selected Ambient Works",
+    "Come to Daddy",
+    "Drukqs"
+  ]
+}
