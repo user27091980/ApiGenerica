@@ -23,5 +23,15 @@
     "NTS Sessions",
     "AE_2022"
   ],
-  "imageBand": "data/resources/ae1.jpg"
+  "imageBand": "data/resources/ae1.jpg",
+  "albumLinks": [
+    "https://www.youtube.com/watch?v=kmf29LAjJGI&list=PLQNcb2RwdcZKodeo9nrQkeNn2LnCgCZMW",
+    "https://www.youtube.com/playlist?list=OLAK5uy_mIkZBmozb7s6SmnlOVhJoGDiEMmK0h1dM",
+    "https://www.youtube.com/playlist?list=OLAK5uy_nqFGUvQ82a8-29dCHQWoEhI9UeoA1tpDk",
+    "https://www.youtube.com/watch?v=Wr6vARWre-Y&list=PL4wjgXyj5LGQWHfBI38Lizk13S8zm7Ibs",
+    "https://www.youtube.com/playlist?list=OLAK5uy_nKTeSB_e8VUv_ZZl8Y36TqAp9GWBadhnU"
+   ],
+   "headerLink":"https://autechre.warp.net/"
+
+
 }

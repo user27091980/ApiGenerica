@@ -27,5 +27,14 @@
     "10000 days",
     "fear inoculum"
   ],
-  "imageBand": "data/resources/tool1.jpg"
+  "imageBand": "data/resources/tool1.jpg",
+  "albumLinks": [
+    "https://www.youtube.com/playlist?list=OLAK5uy_lGJLMX42JRmpbF-DFZrUBLL7ymhQ9AiCY",
+    "https://www.youtube.com/playlist?list=OLAK5uy_kPpSQAo2ycoWy2VJY4BAqjW0lKyrsi4ro",
+    "https://www.youtube.com/playlist?list=OLAK5uy_krq_ZS_QzdAelhJqlSSkpFNDRnff6CQgs",
+    "https://www.youtube.com/playlist?list=OLAK5uy_lKfwlbgU4wmlqdKp4GdNO7W6vlG-fhDaM",
+    "https://www.youtube.com/playlist?list=OLAK5uy_l7KrE4YuWhZsfCdXlLJERHyk4YlwydukA",
+    "https://www.youtube.com/playlist?list=OLAK5uy_k_Z0-DYw0_cGPvZm6icNUGbefRT4wktdY" ],
+
+    "headerLink":"https://www.toolband.com/home?k=4d58aff6"
 }

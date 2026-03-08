@@ -22,5 +22,13 @@
     "the fragile",
     "with teeth"
   ],
-  "imageBand": "data/resources/nin1.jpg"
+  "imageBand": "data/resources/nin1.jpg",
+  "albumLinks": [
+    "https://www.youtube.com/playlist?list=OLAK5uy_kb5JAPIaEHswetSZRxEguGMBMXUlMwXC4",
+    "https://www.youtube.com/playlist?list=OLAK5uy_ntyTKmPtSuVGCKd7FPfc7ep68vIobe9VE",
+    "https://www.youtube.com/playlist?list=OLAK5uy_kxE6rMX-COuLZaPTSRr2Rqr-UOkPAEmbs",
+    "https://www.youtube.com/watch?v=SWCYAS_p8zU&list=PLnif9Rfb5Adl4SmrXY_L4GshBSYCecEX3",
+    "https://www.youtube.com/playlist?list=OLAK5uy_mNlb0ntqQSw8iFKOBO1bDlGxlRKsW_MAA"
+   ],
+   "headerLink":"https://www.nin.com/"
 }

@@ -23,5 +23,13 @@
     "Tomorrow´s harvest",
     "The Campfire headphase"
   ],
-  "imageBand": "data/resources/boc0.jpg"
+  "imageBand": "data/resources/boc0.jpg",
+  "albumLinks": [
+    "https://www.youtube.com/watch?v=EuvMNQ7IjNY&list=RDEuvMNQ7IjNY&start_radio=1",
+                        "https://www.youtube.com/playlist?list=OLAK5uy_lcbBHZNY1YP-yJMLufIAuk6s1NXF0N_bU",
+                        "https://www.youtube.com/playlist?list=OLAK5uy_kBIHneSc23tMiNaX68rurYceNxzwtBH84",
+                        "https://www.youtube.com/playlist?list=OLAK5uy_lbgL-BgNt1VLeoJN1QDMPfBWwFn5zsccA",
+                        "https://www.youtube.com/playlist?list=OLAK5uy_nwT_ryJ0N8-TmfqftIrZkcLGGiE_JMT7s"
+   ],
+  "headerLink":"https://warp.net/artists/boards-of-canada"
 }
