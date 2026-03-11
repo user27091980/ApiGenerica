@@ -1,0 +1,34 @@
+{
+  "id": "2",
+  "name": "NIN",
+  "description": "Nine Inch Nails (NIN) es una banda de rock industrial formada en 1988 por Trent Reznor. Posteriormente se unió Atticus Ross como miembro oficial. Han ganado múltiples premios Grammy y Óscar por sus trabajos musicales.",
+  "image": "ApiGenerica/data/resources/nin.jpg",
+  "albumImages": [
+    "data/resources/nin2.jpeg",
+    "data/resources/nin3.jpeg",
+    "data/resources/nin4.jpeg",
+    "data/resources/nin5.jpeg",
+    "data/resources/nin6.jpeg"
+  ],
+  "style": "industrial, alternative",
+  "recordLabel": "nothing records, null corp",
+  "components": [
+    "Trent Reznor"
+  ],
+  "discography": [
+    "pretty hate machine",
+    "broken",
+    "the downward spiral",
+    "the fragile",
+    "with teeth"
+  ],
+  
+  "albumLinks": [
+    "https://www.youtube.com/playlist?list=OLAK5uy_kb5JAPIaEHswetSZRxEguGMBMXUlMwXC4",
+    "https://www.youtube.com/playlist?list=OLAK5uy_ntyTKmPtSuVGCKd7FPfc7ep68vIobe9VE",
+    "https://www.youtube.com/playlist?list=OLAK5uy_kxE6rMX-COuLZaPTSRr2Rqr-UOkPAEmbs",
+    "https://www.youtube.com/watch?v=SWCYAS_p8zU&list=PLnif9Rfb5Adl4SmrXY_L4GshBSYCecEX3",
+    "https://www.youtube.com/playlist?list=OLAK5uy_mNlb0ntqQSw8iFKOBO1bDlGxlRKsW_MAA"
+   ],
+   "headerLink":"https://www.nin.com/"
+}

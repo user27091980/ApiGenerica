@@ -1,0 +1,37 @@
+{
+  "id": "1",
+  "name": "Aphex Twin",
+  "description": "Richard David James, conocido como Aphex Twin, es un productor y DJ irlandés-británico considerado una figura clave de la música electrónica contemporánea. Fundó Rephlex Records y es uno de los artistas más influyentes del IDM.",
+  "image": "ApiGenerica/data/resources/aphx.png",
+  "albumImages": [
+    "data/resources/aphx1.jpg",
+    "data/resources/aphx2.jpg",
+    "data/resources/aphx3.jpg",
+    "data/resources/aphx4.jpg",
+    "data/resources/aphx6.jpg",
+    "data/resources/aphx7.jpg",
+    "data/resources/aphx8.jpg"
+  ],
+  "style": "idm",
+  "recordLabel": "Warp Records",
+  "components": [
+    "Richard D. James"
+  ],
+  "discography": [
+    "Selected Ambient Works",
+    "Come to daddy",
+    "Drukqs",
+    "Hangable Auto Bulb",
+    "...i care because you do"
+  ],
+  
+  "albumLinks": [
+    "https://www.youtube.com/watch?v=sWcLccMuCA8&list=PLmGuMvhZ3-aPMfmoKpQ6WE3bSTkBFuaSl",
+    "https://www.youtube.com/playlist?list=OLAK5uy_kZb_rG2RQfOcyfRPpp3ZTThnCRHDzHQO0",
+    "https://www.youtube.com/playlist?list=OLAK5uy_kqtENKafwOg96cqWcB0BVuFCf2iTroYqk",
+    "https://www.youtube.com/watch?v=CWwgWWfb2u4&list=PLk5ImplHgDw0s4mwh1D9r_Mo7sMZIdyEn",
+    "https://www.youtube.com/playlist?list=OLAK5uy_lkdpFMWST_gPGQ9hKW6Pvum5ybfLhOGjs"
+     ],
+
+  "headerLink":"https://aphextwin.warp.net/"
+}
